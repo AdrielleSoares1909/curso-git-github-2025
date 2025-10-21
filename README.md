@@ -10,11 +10,11 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 
 
-<<<<<<< HEAD
+
 Aprendendo com TÉO CALVO!!!
-=======
-#### ***Aprendendo com TÉO CALVO!***
->>>>>>> bb9cdc59ffda4e631d3117b208e71b4b5963da11
+
+
+
 
 
 
